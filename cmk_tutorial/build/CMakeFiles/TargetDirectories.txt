@@ -1,0 +1,3 @@
+/home/sanae/Code/Cxx/cmk_tutorial/build/CMakeFiles/Hello.dir
+/home/sanae/Code/Cxx/cmk_tutorial/build/CMakeFiles/edit_cache.dir
+/home/sanae/Code/Cxx/cmk_tutorial/build/CMakeFiles/rebuild_cache.dir

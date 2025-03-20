@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/sanae/Code/Cxx/cmk_tutorial/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/Hello.dir/main.cpp.o -c /home/sanae/Code/Cxx/cmk_tutorial/main.cpp",
+  "file": "/home/sanae/Code/Cxx/cmk_tutorial/main.cpp",
+  "output": "CMakeFiles/Hello.dir/main.cpp.o"
+}
+]
